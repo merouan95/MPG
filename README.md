@@ -1,7 +1,7 @@
 # MPG
 
 ## Prerequisites
-Node.js (v18.5.0)
+Node.js (v18.5.0) <br />
 npm (v9.5.0)
 
 ## Installation & Setup
