@@ -5,8 +5,8 @@ Node.js (v18.5.0)
 npm (v9.5.0)
 
 ## Installation & Setup
-git clone https://github.com/merouan95/MPG.git
-npm install
+git clone https://github.com/merouan95/MPG.git <br />
+npm install <br />
 cd ios; pod install; cd ..
 
 ### For IOS:
